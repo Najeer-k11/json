@@ -2,13 +2,13 @@
     {
         "name":"wall2",
         "size":"1080*2340",
-        "imgurl":"hvh",
-        "thumburl":"bjh"
+        "imgurl":"https://github.com/Najeer-k11/wallove-thumb/blob/main/wave%203.png",
+        "thumburl":"https://github.com/Najeer-k11/wallove-thumb/blob/main/wave%203.png"
     },
     {
         "name":"wall1",
         "size":"1080*2340",
-        "imgurl":"hvh",
-        "thumburl":"bjh"
+        "imgurl":"https://github.com/Najeer-k11/wallove/blob/main/wavy.png",
+        "thumburl":"https://github.com/Najeer-k11/wallove/blob/main/wavy.png"
     }
 ]
